@@ -1,0 +1,1965 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "963-1193",
+        "Street Name": "Barambah",
+        "Street Type": "RD",
+        "Suburb": "MOFFATDALE",
+        "Postcode": "4605",
+        "State": "QLD",
+        "Full Address": "963-1193 Barambah RD MOFFATDALE 4605 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          151.956199,
+          -26.290803
+        ],
+        "type": "Point"
+      },
+      "id": "01378ec096e0d2c153ff307c12baf0bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "BRUCE",
+        "Street Type": "HWY",
+        "Suburb": "NAMBOUR",
+        "Postcode": "4560",
+        "State": "QLD",
+        "Full Address": " BRUCE HWY NAMBOUR 4560 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.986817,
+          -26.622297
+        ],
+        "type": "Point"
+      },
+      "id": "022e55bb80a2b23063e3378c3ae0d0e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "963-1193",
+        "Street Name": "Barambah",
+        "Street Type": "RD",
+        "Suburb": "MOFFATDALE",
+        "Postcode": "4605",
+        "State": "QLD",
+        "Full Address": "963-1193 Barambah RD MOFFATDALE 4605 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          151.956199,
+          -26.290803
+        ],
+        "type": "Point"
+      },
+      "id": "08f7e54d19d985632497234fb67cbc75"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "135",
+        "Street Name": "Stumm",
+        "Street Type": "RD",
+        "Suburb": "SOUTHSIDE",
+        "Postcode": "4570",
+        "State": "QLD",
+        "Full Address": "135 Stumm RD SOUTHSIDE 4570 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.630342,
+          -26.192739
+        ],
+        "type": "Point"
+      },
+      "id": "0b8997f17950a4e903f5e5d69477e523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Flinders",
+        "Street Type": "HWY",
+        "Suburb": "PENTLAND",
+        "Postcode": "4816",
+        "State": "QLD",
+        "Full Address": " Flinders HWY PENTLAND 4816 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          145.366984,
+          -20.553344
+        ],
+        "type": "Point"
+      },
+      "id": "0dbe036cde614f573623fe4991a99b57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "135",
+        "Street Name": "Stumm",
+        "Street Type": "RD",
+        "Suburb": "SOUTHSIDE",
+        "Postcode": "4570",
+        "State": "QLD",
+        "Full Address": "135 Stumm RD SOUTHSIDE 4570 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.630342,
+          -26.192739
+        ],
+        "type": "Point"
+      },
+      "id": "0ea11d6bdafec0c69cc7873d719543ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "5",
+        "Street Name": "Mill",
+        "Street Type": "ST",
+        "Suburb": "NAMBOUR",
+        "Postcode": "4560",
+        "State": "QLD",
+        "Full Address": "5 Mill ST NAMBOUR 4560 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.958295,
+          -26.627028
+        ],
+        "type": "Point"
+      },
+      "id": "0ff57a873c529762d6003b4b015c2e98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "3653",
+        "Street Name": "Main Beach",
+        "Street Type": "PDE",
+        "Suburb": "MAIN BEACH",
+        "Postcode": "4217",
+        "State": "QLD",
+        "Full Address": "3653 Main Beach PDE MAIN BEACH 4217 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.426513,
+          -27.974927
+        ],
+        "type": "Point"
+      },
+      "id": "15e9914bc4c803170912b5f913da3769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "309",
+        "Street Name": "Progress",
+        "Street Type": "RD",
+        "Suburb": "WACOL",
+        "Postcode": "4077",
+        "State": "QLD",
+        "Full Address": "309 Progress RD WACOL 4077 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.945017,
+          -27.597203
+        ],
+        "type": "Point"
+      },
+      "id": "196f0d8264f83b02756dc22a7ccd10f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Warrego",
+        "Street Type": "HWY",
+        "Suburb": "MACALISTER",
+        "Postcode": "4406",
+        "State": "QLD",
+        "Full Address": " Warrego HWY MACALISTER 4406 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          151.069686,
+          -27.036471
+        ],
+        "type": "Point"
+      },
+      "id": "19d32804c8dab04f882dd824f89aedb2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Charles & Bamford",
+        "Street Type": "LANE",
+        "Suburb": "KIRWAN",
+        "Postcode": "4817",
+        "State": "QLD",
+        "Full Address": " Charles & Bamford LANE KIRWAN 4817 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          146.740319,
+          -19.304267
+        ],
+        "type": "Point"
+      },
+      "id": "1bf7f5ffc827a18e4bb81876de7b8bb8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Pinelands & Beenleigh",
+        "Street Type": "RD",
+        "Suburb": "SUNNYBANK HILLS",
+        "Postcode": "4109",
+        "State": "QLD",
+        "Full Address": " Pinelands & Beenleigh RD SUNNYBANK HILLS 4109 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.060876,
+          -27.587779
+        ],
+        "type": "Point"
+      },
+      "id": "209ed3778fc99abb06b8dc1b51268bb4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Saffron & Boram",
+        "Street Type": "ST",
+        "Suburb": "CURRIMUNDI",
+        "Postcode": "4551",
+        "State": "QLD",
+        "Full Address": " Saffron & Boram ST CURRIMUNDI 4551 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.113563,
+          -26.770992
+        ],
+        "type": "Point"
+      },
+      "id": "28ab039603380c3dd8f2c2c98b99a791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "GLADSTONE BENARABY",
+        "Street Type": "RD",
+        "Suburb": "WURDONG HEIGHTS",
+        "Postcode": "4680",
+        "State": "QLD",
+        "Full Address": " GLADSTONE BENARABY RD WURDONG HEIGHTS 4680 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          151.300028,
+          -23.9655
+        ],
+        "type": "Point"
+      },
+      "id": "2b667e09decd351171e46369fdd800dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "26-447",
+        "Street Name": "COLLINS WEIR",
+        "Street Type": "RD",
+        "Suburb": "MUTCHILBA",
+        "Postcode": "4872",
+        "State": "QLD",
+        "Full Address": "26-447 COLLINS WEIR RD MUTCHILBA 4872 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          145.30035,
+          -17.200514
+        ],
+        "type": "Point"
+      },
+      "id": "2f23eaeea9251961c48b19bd84897cec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "4",
+        "Street Name": "Broad",
+        "Street Type": "ST",
+        "Suburb": "SARINA",
+        "Postcode": "4737",
+        "State": "QLD",
+        "Full Address": "4 Broad ST SARINA 4737 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          149.218662,
+          -21.424548
+        ],
+        "type": "Point"
+      },
+      "id": "347acf6c2928f6756dcd4e4e9339e229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "251",
+        "Street Name": "Richmond",
+        "Street Type": "RD",
+        "Suburb": "MORNINGSIDE",
+        "Postcode": "4170",
+        "State": "QLD",
+        "Full Address": "251 Richmond RD MORNINGSIDE 4170 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.082747,
+          -27.473289
+        ],
+        "type": "Point"
+      },
+      "id": "373ec463b4209d22d2cc9a1f32614d5b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "810",
+        "Street Name": "BRUCE",
+        "Street Type": "HWY",
+        "Suburb": "CHATSWORTH",
+        "Postcode": "4570",
+        "State": "QLD",
+        "Full Address": "810 BRUCE HWY CHATSWORTH 4570 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.608696,
+          -26.139557
+        ],
+        "type": "Point"
+      },
+      "id": "382a4e520ae75a8bf6e362485b18c69b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "251",
+        "Street Name": "Richmond",
+        "Street Type": "RD",
+        "Suburb": "MORNINGSIDE",
+        "Postcode": "4170",
+        "State": "QLD",
+        "Full Address": "251 Richmond RD MORNINGSIDE 4170 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.082747,
+          -27.473289
+        ],
+        "type": "Point"
+      },
+      "id": "3f620de5a69293acc04edde676b48899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "BRUCE & DRAPER",
+        "Street Type": "RD",
+        "Suburb": "GORDONVALE",
+        "Postcode": "4865",
+        "State": "QLD",
+        "Full Address": " BRUCE & DRAPER RD GORDONVALE 4865 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          145.775145,
+          -17.08582
+        ],
+        "type": "Point"
+      },
+      "id": "422fbb75a912cd71bfbf155d1e29ac7c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "4",
+        "Street Name": "Endeavour",
+        "Street Type": "ST",
+        "Suburb": "PORT DOUGLAS",
+        "Postcode": "4877",
+        "State": "QLD",
+        "Full Address": "4 Endeavour ST PORT DOUGLAS 4877 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          145.460303,
+          -16.52486
+        ],
+        "type": "Point"
+      },
+      "id": "49b698429e73c9e26c3e8f5331945e2a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Harbour & Kingsford Smith",
+        "Street Type": "DR",
+        "Suburb": "HAMILTON",
+        "Postcode": "4007",
+        "State": "QLD",
+        "Full Address": " Harbour & Kingsford Smith DR HAMILTON 4007 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.065664,
+          -27.439076
+        ],
+        "type": "Point"
+      },
+      "id": "4ae7e382cb72e497c2ba77515b6fd5be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "38",
+        "Street Name": "Conifer",
+        "Street Type": "CRES",
+        "Suburb": "BROADBEACH WATERS",
+        "Postcode": "4218",
+        "State": "QLD",
+        "Full Address": "38 Conifer CRES BROADBEACH WATERS 4218 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.399044,
+          -28.027875
+        ],
+        "type": "Point"
+      },
+      "id": "4c54f25d1a21b25feb1f427f4f6f43c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "BLINZINGER & SAINT VINCENTS",
+        "Street Type": "RD",
+        "Suburb": "BANYO",
+        "Postcode": "4014",
+        "State": "QLD",
+        "Full Address": " BLINZINGER & SAINT VINCENTS RD BANYO 4014 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.07141,
+          -27.379246
+        ],
+        "type": "Point"
+      },
+      "id": "4c6d9d6003f2e720d5e5122df89a4717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Geaney & Deeragun",
+        "Street Type": "RD",
+        "Suburb": "DEERAGUN",
+        "Postcode": "4818",
+        "State": "QLD",
+        "Full Address": " Geaney & Deeragun RD DEERAGUN 4818 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          146.678069,
+          -19.247624
+        ],
+        "type": "Point"
+      },
+      "id": "58990a782197a8d150cb62c201c2402e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Latimer & Quinzeh Creek",
+        "Street Type": "RD",
+        "Suburb": "LOGAN VILLAGE",
+        "Postcode": "4207",
+        "State": "QLD",
+        "Full Address": " Latimer & Quinzeh Creek RD LOGAN VILLAGE 4207 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.13501,
+          -27.78335
+        ],
+        "type": "Point"
+      },
+      "id": "59f67f43b35e0e128f40588800c2d630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "PACIFIC",
+        "Street Type": "MWY",
+        "Suburb": "GREENSLOPES",
+        "Postcode": "4120",
+        "State": "QLD",
+        "Full Address": " PACIFIC MWY GREENSLOPES 4120 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.038778,
+          -27.507007
+        ],
+        "type": "Point"
+      },
+      "id": "5abacfcd2105ccbfce5057515672efc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "BLINZINGER & SAINT VINCENTS",
+        "Street Type": "RD",
+        "Suburb": "BANYO",
+        "Postcode": "4014",
+        "State": "QLD",
+        "Full Address": " BLINZINGER & SAINT VINCENTS RD BANYO 4014 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.07141,
+          -27.379246
+        ],
+        "type": "Point"
+      },
+      "id": "5eda87cba0ad6e9d1b7c914f2a7b77ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "18",
+        "Street Name": "Carl",
+        "Street Type": "ST",
+        "Suburb": "WOOLLOONGABBA",
+        "Postcode": "4102",
+        "State": "QLD",
+        "Full Address": "18 Carl ST WOOLLOONGABBA 4102 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.038282,
+          -27.49889
+        ],
+        "type": "Point"
+      },
+      "id": "6455fbdf23e3ad78d0168acbb5efc543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Ipswich",
+        "Street Type": "RD",
+        "Suburb": "MOOROOKA",
+        "Postcode": "4105",
+        "State": "QLD",
+        "Full Address": " Ipswich RD MOOROOKA 4105 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.016608,
+          -27.532596
+        ],
+        "type": "Point"
+      },
+      "id": "67f8b845053fee3934b4eb92f53abc80"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Pixie",
+        "Street Type": "DR",
+        "Suburb": "KEARNEYS SPRING",
+        "Postcode": "4350",
+        "State": "QLD",
+        "Full Address": " Pixie DR KEARNEYS SPRING 4350 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          151.941268,
+          -27.609268
+        ],
+        "type": "Point"
+      },
+      "id": "6cd355cd28b3a402ec891d7c34043985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "1",
+        "Street Name": "Mcleod",
+        "Street Type": "ST",
+        "Suburb": "CAIRNS CITY",
+        "Postcode": "4870",
+        "State": "QLD",
+        "Full Address": "1 Mcleod ST CAIRNS CITY 4870 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          145.772058,
+          -16.924927
+        ],
+        "type": "Point"
+      },
+      "id": "6ea81b7a3e4f10a3661fc08d324f307f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "James & Mackenzie",
+        "Street Type": "ST",
+        "Suburb": "RANGEVILLE",
+        "Postcode": "4350",
+        "State": "QLD",
+        "Full Address": " James & Mackenzie ST RANGEVILLE 4350 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          151.970045,
+          -27.571139
+        ],
+        "type": "Point"
+      },
+      "id": "71c5afdcb81a72bf3903e35139427250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "109",
+        "Street Name": "Pacific",
+        "Street Type": "BVD",
+        "Suburb": "BUDDINA",
+        "Postcode": "4575",
+        "State": "QLD",
+        "Full Address": "109 Pacific BVD BUDDINA 4575 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.134593,
+          -26.704734
+        ],
+        "type": "Point"
+      },
+      "id": "724193bf47f169f42531b07c4fb9b2ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Latimer & Quinzeh Creek",
+        "Street Type": "RD",
+        "Suburb": "LOGAN VILLAGE",
+        "Postcode": "4207",
+        "State": "QLD",
+        "Full Address": " Latimer & Quinzeh Creek RD LOGAN VILLAGE 4207 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.13501,
+          -27.78335
+        ],
+        "type": "Point"
+      },
+      "id": "72ae3473106fa1997263692f08d5d7bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "14",
+        "Street Name": "Penfold",
+        "Street Type": "ST",
+        "Suburb": "HILLCREST",
+        "Postcode": "4118",
+        "State": "QLD",
+        "Full Address": "14 Penfold ST HILLCREST 4118 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.024668,
+          -27.662317
+        ],
+        "type": "Point"
+      },
+      "id": "76aaad619d31b8222897edec85dba7e9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "BOWEN",
+        "Street Type": "RD",
+        "Suburb": "ROSSLEA",
+        "Postcode": "4812",
+        "State": "QLD",
+        "Full Address": " BOWEN RD ROSSLEA 4812 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          146.798077,
+          -19.297088
+        ],
+        "type": "Point"
+      },
+      "id": "772d315bd2a4408b697feb9b67e2a382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "BRUCE & DRAPER",
+        "Street Type": "RD",
+        "Suburb": "GORDONVALE",
+        "Postcode": "4865",
+        "State": "QLD",
+        "Full Address": " BRUCE & DRAPER RD GORDONVALE 4865 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          145.775145,
+          -17.08582
+        ],
+        "type": "Point"
+      },
+      "id": "78575e650103fd51e9b6e636c6ca26aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Pinelands & Beenleigh",
+        "Street Type": "RD",
+        "Suburb": "SUNNYBANK HILLS",
+        "Postcode": "4109",
+        "State": "QLD",
+        "Full Address": " Pinelands & Beenleigh RD SUNNYBANK HILLS 4109 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.060876,
+          -27.587779
+        ],
+        "type": "Point"
+      },
+      "id": "7bc7dc22b7ad77e240e5a72c272d6de8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "71209-71209",
+        "Street Name": "KUNWARARA",
+        "Street Type": "RD",
+        "Suburb": "MARLBOROUGH",
+        "Postcode": "4705",
+        "State": "QLD",
+        "Full Address": "71209-71209 KUNWARARA RD MARLBOROUGH 4705 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          149.932998,
+          -22.827675
+        ],
+        "type": "Point"
+      },
+      "id": "7d232e4757029949eee302b918d9eaf5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "OCEAN & ASHGROVE",
+        "Street Type": "AVE",
+        "Suburb": "RUNAWAY BAY",
+        "Postcode": "4216",
+        "State": "QLD",
+        "Full Address": " OCEAN & ASHGROVE AVE RUNAWAY BAY 4216 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.396637,
+          -27.924379
+        ],
+        "type": "Point"
+      },
+      "id": "8092c8cb4bb842a3af1d37a5cc12d134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Witta & Maleny Kenilworth",
+        "Street Type": "RD",
+        "Suburb": "WITTA",
+        "Postcode": "4552",
+        "State": "QLD",
+        "Full Address": " Witta & Maleny Kenilworth RD WITTA 4552 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.817443,
+          -26.730313
+        ],
+        "type": "Point"
+      },
+      "id": "8357b72ba5e77d39bf17670179e5ee09"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Winn & Clear Mountain",
+        "Street Type": "RD",
+        "Suburb": "MOUNT SAMSON",
+        "Postcode": "4520",
+        "State": "QLD",
+        "Full Address": " Winn & Clear Mountain RD MOUNT SAMSON 4520 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.868603,
+          -27.294999
+        ],
+        "type": "Point"
+      },
+      "id": "8696c3cea9ff1eb018a5e65dc5e76b95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "PRIESTDALE & SCHOOL",
+        "Street Type": "RD",
+        "Suburb": "ROCHEDALE",
+        "Postcode": "4123",
+        "State": "QLD",
+        "Full Address": " PRIESTDALE & SCHOOL RD ROCHEDALE 4123 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.107324,
+          -27.584906
+        ],
+        "type": "Point"
+      },
+      "id": "86e151d965339a9ca3d50a2dfa4e6de8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "963-1193",
+        "Street Name": "Barambah",
+        "Street Type": "RD",
+        "Suburb": "MOFFATDALE",
+        "Postcode": "4605",
+        "State": "QLD",
+        "Full Address": "963-1193 Barambah RD MOFFATDALE 4605 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          151.956199,
+          -26.290803
+        ],
+        "type": "Point"
+      },
+      "id": "891db839114898ea53c05c247786aa01"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "INGHAM",
+        "Street Type": "RD",
+        "Suburb": "GARBUTT",
+        "Postcode": "4814",
+        "State": "QLD",
+        "Full Address": " INGHAM RD GARBUTT 4814 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          146.767167,
+          -19.263392
+        ],
+        "type": "Point"
+      },
+      "id": "8ba6b1e8b09ad108e5f40deb9856ec58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "GREGORY CANNON VALLEY & PATULLO",
+        "Street Type": "RD",
+        "Suburb": "GREGORY RIVER",
+        "Postcode": "4800",
+        "State": "QLD",
+        "Full Address": " GREGORY CANNON VALLEY & PATULLO RD GREGORY RIVER 4800 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          148.569395,
+          -20.299946
+        ],
+        "type": "Point"
+      },
+      "id": "8d3184a0faeeb4c729a3495be2ae8f13"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "GOLD COAST",
+        "Street Type": "HWY",
+        "Suburb": "CURRUMBIN",
+        "Postcode": "4223",
+        "State": "QLD",
+        "Full Address": " GOLD COAST HWY CURRUMBIN 4223 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.4841,
+          -28.133408
+        ],
+        "type": "Point"
+      },
+      "id": "8d67ea9f358108be20b80a0b65558102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "39",
+        "Street Name": "West Burleigh",
+        "Street Type": "RD",
+        "Suburb": "BURLEIGH HEADS",
+        "Postcode": "4220",
+        "State": "QLD",
+        "Full Address": "39 West Burleigh RD BURLEIGH HEADS 4220 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.447516,
+          -28.090214
+        ],
+        "type": "Point"
+      },
+      "id": "8ef1cee55c118c14757d2512b437f84f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "PACIFIC",
+        "Street Type": "MWY",
+        "Suburb": "EIGHT MILE PLAINS",
+        "Postcode": "4113",
+        "State": "QLD",
+        "Full Address": " PACIFIC MWY EIGHT MILE PLAINS 4113 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.098684,
+          -27.575225
+        ],
+        "type": "Point"
+      },
+      "id": "8f55aefd741e9ff0788f81779dfa85b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "GOLD COAST & HAWAII AV",
+        "Street Type": "HWY",
+        "Suburb": "PALM BEACH",
+        "Postcode": "4221",
+        "State": "QLD",
+        "Full Address": " GOLD COAST & HAWAII AV HWY PALM BEACH 4221 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.475317,
+          -28.125499
+        ],
+        "type": "Point"
+      },
+      "id": "97bdac45c4c023b7d18d82f64fdcc5a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "PACIFIC",
+        "Street Type": "MWY",
+        "Suburb": "MOLENDINAR",
+        "Postcode": "4214",
+        "State": "QLD",
+        "Full Address": " PACIFIC MWY MOLENDINAR 4214 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.345796,
+          -27.974869
+        ],
+        "type": "Point"
+      },
+      "id": "9b95eaa824fc3def20ebd0ab6b78256b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "TURBOT & WHARF",
+        "Street Type": "ST",
+        "Suburb": "SPRING HILL",
+        "Postcode": "4000",
+        "State": "QLD",
+        "Full Address": " TURBOT & WHARF ST SPRING HILL 4000 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.028211,
+          -27.463559
+        ],
+        "type": "Point"
+      },
+      "id": "a4aa91d86b2645b4ec802e5e7725eb70"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "251",
+        "Street Name": "Richmond",
+        "Street Type": "RD",
+        "Suburb": "MORNINGSIDE",
+        "Postcode": "4170",
+        "State": "QLD",
+        "Full Address": "251 Richmond RD MORNINGSIDE 4170 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.082747,
+          -27.473289
+        ],
+        "type": "Point"
+      },
+      "id": "a5e1ccdacb9f599ee71ad6876c4aaaba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "309",
+        "Street Name": "Progress",
+        "Street Type": "RD",
+        "Suburb": "WACOL",
+        "Postcode": "4077",
+        "State": "QLD",
+        "Full Address": "309 Progress RD WACOL 4077 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.945017,
+          -27.597203
+        ],
+        "type": "Point"
+      },
+      "id": "a5fdae5053f6ff3cafa727cde70f8e27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "71209-71209",
+        "Street Name": "KUNWARARA",
+        "Street Type": "RD",
+        "Suburb": "MARLBOROUGH",
+        "Postcode": "4705",
+        "State": "QLD",
+        "Full Address": "71209-71209 KUNWARARA RD MARLBOROUGH 4705 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          149.932998,
+          -22.827675
+        ],
+        "type": "Point"
+      },
+      "id": "a780c6af119d595dd750acb4ce43ca05"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "98",
+        "Street Name": "Mitchells",
+        "Street Type": "RD",
+        "Suburb": "CLOYNA",
+        "Postcode": "4605",
+        "State": "QLD",
+        "Full Address": "98 Mitchells RD CLOYNA 4605 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          151.815021,
+          -26.137716
+        ],
+        "type": "Point"
+      },
+      "id": "ab51564c92615a34f14ca8da4f0bb02e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "251",
+        "Street Name": "Richmond",
+        "Street Type": "RD",
+        "Suburb": "MORNINGSIDE",
+        "Postcode": "4170",
+        "State": "QLD",
+        "Full Address": "251 Richmond RD MORNINGSIDE 4170 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.082747,
+          -27.473289
+        ],
+        "type": "Point"
+      },
+      "id": "ac309fb53a7c4eba0d51a93c5a199643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "71209-71209",
+        "Street Name": "KUNWARARA",
+        "Street Type": "RD",
+        "Suburb": "MARLBOROUGH",
+        "Postcode": "4705",
+        "State": "QLD",
+        "Full Address": "71209-71209 KUNWARARA RD MARLBOROUGH 4705 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          149.932998,
+          -22.827675
+        ],
+        "type": "Point"
+      },
+      "id": "afbf72db621f88b719bbc221180e2423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Pumicestone & Ardrossan",
+        "Street Type": "RD",
+        "Suburb": "CABOOLTURE",
+        "Postcode": "4510",
+        "State": "QLD",
+        "Full Address": " Pumicestone & Ardrossan RD CABOOLTURE 4510 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.958826,
+          -27.059465
+        ],
+        "type": "Point"
+      },
+      "id": "b25724a363e96d466d5091c0962f2163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Gold Coast",
+        "Street Type": "HWY",
+        "Suburb": "TUGUN",
+        "Postcode": "4224",
+        "State": "QLD",
+        "Full Address": " Gold Coast HWY TUGUN 4224 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.495998,
+          -28.144886
+        ],
+        "type": "Point"
+      },
+      "id": "b2f9c079c9c1929a0c81184a9fa6224b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Beaudesert & Nottingham",
+        "Street Type": "RD",
+        "Suburb": "CALAMVALE",
+        "Postcode": "4116",
+        "State": "QLD",
+        "Full Address": " Beaudesert & Nottingham RD CALAMVALE 4116 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.046511,
+          -27.63031
+        ],
+        "type": "Point"
+      },
+      "id": "b673437e0a6597886c70756904385bba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "307",
+        "Street Name": "Mudgeeraba",
+        "Street Type": "RD",
+        "Suburb": "MUDGEERABA",
+        "Postcode": "4213",
+        "State": "QLD",
+        "Full Address": "307 Mudgeeraba RD MUDGEERABA 4213 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.360291,
+          -28.071692
+        ],
+        "type": "Point"
+      },
+      "id": "bd0c5370376e4e3677f63a713c464b32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "39",
+        "Street Name": "West Burleigh",
+        "Street Type": "RD",
+        "Suburb": "BURLEIGH HEADS",
+        "Postcode": "4220",
+        "State": "QLD",
+        "Full Address": "39 West Burleigh RD BURLEIGH HEADS 4220 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.447516,
+          -28.090214
+        ],
+        "type": "Point"
+      },
+      "id": "be06f2d2b2623079166dae32a7a9a037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Pinelands & Beenleigh",
+        "Street Type": "RD",
+        "Suburb": "SUNNYBANK HILLS",
+        "Postcode": "4109",
+        "State": "QLD",
+        "Full Address": " Pinelands & Beenleigh RD SUNNYBANK HILLS 4109 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.060876,
+          -27.587779
+        ],
+        "type": "Point"
+      },
+      "id": "be97ea3bda968e516f30f918853e9fdd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "2371",
+        "Street Name": "LOGAN",
+        "Street Type": "RD",
+        "Suburb": "EIGHT MILE PLAINS",
+        "Postcode": "4113",
+        "State": "QLD",
+        "Full Address": "2371 LOGAN RD EIGHT MILE PLAINS 4113 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.088561,
+          -27.570728
+        ],
+        "type": "Point"
+      },
+      "id": "bf505e0bf569332cf49d4ac47fa7b889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Flinders",
+        "Street Type": "HWY",
+        "Suburb": "PENTLAND",
+        "Postcode": "4816",
+        "State": "QLD",
+        "Full Address": " Flinders HWY PENTLAND 4816 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          145.366984,
+          -20.553344
+        ],
+        "type": "Point"
+      },
+      "id": "c0628a522db03d63c8f2e3b338300543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "MUNDOOLUN CONNECTION",
+        "Street Type": "RD",
+        "Suburb": "TAMBORINE",
+        "Postcode": "4270",
+        "State": "QLD",
+        "Full Address": " MUNDOOLUN CONNECTION RD TAMBORINE 4270 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.115359,
+          -27.910854
+        ],
+        "type": "Point"
+      },
+      "id": "c12c0bd1427b157194d3f0f20dca46c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "0",
+        "Street Name": "GLENVIEW",
+        "Street Type": "RD",
+        "Suburb": "PALMVIEW",
+        "Postcode": "4553",
+        "State": "QLD",
+        "Full Address": "0 GLENVIEW RD PALMVIEW 4553 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.035273,
+          -26.75991
+        ],
+        "type": "Point"
+      },
+      "id": "c45f9f38cad213bdd56395eaaddb84a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "SANTA BARBARA & OXENFORD SOUTHPORT",
+        "Street Type": "RD",
+        "Suburb": "HOPE ISLAND",
+        "Postcode": "4212",
+        "State": "QLD",
+        "Full Address": " SANTA BARBARA & OXENFORD SOUTHPORT RD HOPE ISLAND 4212 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.349738,
+          -27.867182
+        ],
+        "type": "Point"
+      },
+      "id": "c80cbf54917fcc26b43feaca6f7a7ba9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "259",
+        "Street Name": "Boundary",
+        "Street Type": "RD",
+        "Suburb": "THORNLANDS",
+        "Postcode": "4164",
+        "State": "QLD",
+        "Full Address": "259 Boundary RD THORNLANDS 4164 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.26316,
+          -27.572209
+        ],
+        "type": "Point"
+      },
+      "id": "c8acebf775e1761a759d9c5a1ffba484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "55",
+        "Street Name": "Hawthorne",
+        "Street Type": "ST",
+        "Suburb": "FOREST LAKE",
+        "Postcode": "4078",
+        "State": "QLD",
+        "Full Address": "55 Hawthorne ST FOREST LAKE 4078 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.96937,
+          -27.634073
+        ],
+        "type": "Point"
+      },
+      "id": "c9012b18592bb200ac81255f01b8dec1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "35",
+        "Street Name": "MAINE",
+        "Street Type": "RD",
+        "Suburb": "CLONTARF",
+        "Postcode": "4019",
+        "State": "QLD",
+        "Full Address": "35 MAINE RD CLONTARF 4019 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.089239,
+          -27.253977
+        ],
+        "type": "Point"
+      },
+      "id": "c9a736c4f43a94b4022dd3eeef9ea307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Kennedy",
+        "Street Type": "HWY",
+        "Suburb": "KURANDA",
+        "Postcode": "4881",
+        "State": "QLD",
+        "Full Address": " Kennedy HWY KURANDA 4881 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          145.613955,
+          -16.840549
+        ],
+        "type": "Point"
+      },
+      "id": "cc65c78ff9e86f662d602b1250e55b78"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "44",
+        "Street Name": "Wharf",
+        "Street Type": "ST",
+        "Suburb": "PORT DOUGLAS",
+        "Postcode": "4877",
+        "State": "QLD",
+        "Full Address": "44 Wharf ST PORT DOUGLAS 4877 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          145.460591,
+          -16.484457
+        ],
+        "type": "Point"
+      },
+      "id": "cca86eee1f63ce93780ac3cc268b5776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Thornton & Garfield",
+        "Street Type": "TCE",
+        "Suburb": "SURFERS PARADISE",
+        "Postcode": "4217",
+        "State": "QLD",
+        "Full Address": " Thornton & Garfield TCE SURFERS PARADISE 4217 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.431647,
+          -28.010345
+        ],
+        "type": "Point"
+      },
+      "id": "ced1cd991213d2ca4f9dc8d50bef3bbe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Dawson & Penda",
+        "Street Type": "AVE",
+        "Suburb": "CLINTON",
+        "Postcode": "4680",
+        "State": "QLD",
+        "Full Address": " Dawson & Penda AVE CLINTON 4680 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          151.227035,
+          -23.876881
+        ],
+        "type": "Point"
+      },
+      "id": "cf2dfe98c8454c89b846a2575520f913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Harbour & Kingsford Smith",
+        "Street Type": "DR",
+        "Suburb": "HAMILTON",
+        "Postcode": "4007",
+        "State": "QLD",
+        "Full Address": " Harbour & Kingsford Smith DR HAMILTON 4007 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.065664,
+          -27.439076
+        ],
+        "type": "Point"
+      },
+      "id": "d3f8042b79fb9440bd6ad74ae75b839a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "131",
+        "Street Name": "Hunchy",
+        "Street Type": "RD",
+        "Suburb": "HUNCHY",
+        "Postcode": "4555",
+        "State": "QLD",
+        "Full Address": "131 Hunchy RD HUNCHY 4555 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.929923,
+          -26.690473
+        ],
+        "type": "Point"
+      },
+      "id": "d4b327a5aca5c35e6d44f3c426c62937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "71209-71209",
+        "Street Name": "KUNWARARA",
+        "Street Type": "RD",
+        "Suburb": "MARLBOROUGH",
+        "Postcode": "4705",
+        "State": "QLD",
+        "Full Address": "71209-71209 KUNWARARA RD MARLBOROUGH 4705 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          149.932998,
+          -22.827675
+        ],
+        "type": "Point"
+      },
+      "id": "d633d26a358712b63c98625a726e562a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Bruce",
+        "Street Type": "HWY",
+        "Suburb": "DECEPTION BAY",
+        "Postcode": "4508",
+        "State": "QLD",
+        "Full Address": " Bruce HWY DECEPTION BAY 4508 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.986175,
+          -27.186756
+        ],
+        "type": "Point"
+      },
+      "id": "db090f4df862a3249ef4be4619746d6f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "810",
+        "Street Name": "BRUCE",
+        "Street Type": "HWY",
+        "Suburb": "CHATSWORTH",
+        "Postcode": "4570",
+        "State": "QLD",
+        "Full Address": "810 BRUCE HWY CHATSWORTH 4570 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.608696,
+          -26.139557
+        ],
+        "type": "Point"
+      },
+      "id": "db6bfb0523c6690e3a84b3b20abcd65b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "203-206",
+        "Street Name": "Russell",
+        "Street Type": "TCE",
+        "Suburb": "CHAPEL HILL",
+        "Postcode": "4068",
+        "State": "QLD",
+        "Full Address": "203-206 Russell TCE CHAPEL HILL 4068 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.957225,
+          -27.494162
+        ],
+        "type": "Point"
+      },
+      "id": "e1ef68ee80eaa3a8ac0e2bb3bdc212b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "1035",
+        "Street Name": "KENNEDY",
+        "Street Type": "HWY",
+        "Suburb": "KURANDA",
+        "Postcode": "4881",
+        "State": "QLD",
+        "Full Address": "1035 KENNEDY HWY KURANDA 4881 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          145.648576,
+          -16.822999
+        ],
+        "type": "Point"
+      },
+      "id": "e47d5d7670640e588d45b51aa2c39147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "26-447",
+        "Street Name": "COLLINS WEIR",
+        "Street Type": "RD",
+        "Suburb": "MUTCHILBA",
+        "Postcode": "4872",
+        "State": "QLD",
+        "Full Address": "26-447 COLLINS WEIR RD MUTCHILBA 4872 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          145.30035,
+          -17.200514
+        ],
+        "type": "Point"
+      },
+      "id": "e55fd75c568ee5049beff9be6bc5f394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Pinelands & Beenleigh",
+        "Street Type": "RD",
+        "Suburb": "SUNNYBANK HILLS",
+        "Postcode": "4109",
+        "State": "QLD",
+        "Full Address": " Pinelands & Beenleigh RD SUNNYBANK HILLS 4109 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.060876,
+          -27.587779
+        ],
+        "type": "Point"
+      },
+      "id": "e717701d3a3fac70609cc0b4e1a87bdd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "2",
+        "Street Name": "Kingsford Smith",
+        "Street Type": "DR",
+        "Suburb": "ALBION",
+        "Postcode": "4010",
+        "State": "QLD",
+        "Full Address": "2 Kingsford Smith DR ALBION 4010 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.045757,
+          -27.440618
+        ],
+        "type": "Point"
+      },
+      "id": "e942334b82f37439694aff0cd7ce32d9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "57",
+        "Street Name": "Jim Whyte",
+        "Street Type": "WAY",
+        "Suburb": "BURUA",
+        "Postcode": "4680",
+        "State": "QLD",
+        "Full Address": "57 Jim Whyte WAY BURUA 4680 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          151.209014,
+          -23.923627
+        ],
+        "type": "Point"
+      },
+      "id": "ec9cc31cca493478d341d556f6c93914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Point Cartwright & Nicklin",
+        "Street Type": "WAY",
+        "Suburb": "BUDDINA",
+        "Postcode": "4575",
+        "State": "QLD",
+        "Full Address": " Point Cartwright & Nicklin WAY BUDDINA 4575 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.128481,
+          -26.70296
+        ],
+        "type": "Point"
+      },
+      "id": "ed2ae87f26dd470ca6bb454d61fc4f50"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "Latimer & Quinzeh Creek",
+        "Street Type": "RD",
+        "Suburb": "LOGAN VILLAGE",
+        "Postcode": "4207",
+        "State": "QLD",
+        "Full Address": " Latimer & Quinzeh Creek RD LOGAN VILLAGE 4207 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.13501,
+          -27.78335
+        ],
+        "type": "Point"
+      },
+      "id": "ed657bacb70e47ecfb6d17cd1d7db40d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "71209-71209",
+        "Street Name": "KUNWARARA",
+        "Street Type": "RD",
+        "Suburb": "MARLBOROUGH",
+        "Postcode": "4705",
+        "State": "QLD",
+        "Full Address": "71209-71209 KUNWARARA RD MARLBOROUGH 4705 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          149.932998,
+          -22.827675
+        ],
+        "type": "Point"
+      },
+      "id": "ed679d662b2d992eac831072f3fbd898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "240",
+        "Street Name": "COOLOOLABIN",
+        "Street Type": "RD",
+        "Suburb": "COOLOOLABIN",
+        "Postcode": "4560",
+        "State": "QLD",
+        "Full Address": "240 COOLOOLABIN RD COOLOOLABIN 4560 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          152.929708,
+          -26.551839
+        ],
+        "type": "Point"
+      },
+      "id": "f241307000f3fc59c7669ae955b7b6cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "19",
+        "Street Name": "Grimshaw",
+        "Street Type": "ST",
+        "Suburb": "PARRAMATTA PARK",
+        "Postcode": "4870",
+        "State": "QLD",
+        "Full Address": "19 Grimshaw ST PARRAMATTA PARK 4870 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          145.768756,
+          -16.925825
+        ],
+        "type": "Point"
+      },
+      "id": "f252edf5593fe096dcffc9dda3ee6824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "GREGORY DEVELOPMENTAL & KILCUMMIN DIAMOND DOWNS",
+        "Street Type": "RD",
+        "Suburb": "KILCUMMIN",
+        "Postcode": "4721",
+        "State": "QLD",
+        "Full Address": " GREGORY DEVELOPMENTAL & KILCUMMIN DIAMOND DOWNS RD KILCUMMIN 4721 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          147.476896,
+          -22.486433
+        ],
+        "type": "Point"
+      },
+      "id": "f6027af8e92eab67d8b507c3abd02cbc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "PACIFIC & MURRAYS",
+        "Street Type": "RD",
+        "Suburb": "SLACKS CREEK",
+        "Postcode": "4127",
+        "State": "QLD",
+        "Full Address": " PACIFIC & MURRAYS RD SLACKS CREEK 4127 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          153.13701,
+          -27.636787
+        ],
+        "type": "Point"
+      },
+      "id": "fa6f805bd20cb4b3d8a860574135bd56"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "SHERIDAN & SPENCE",
+        "Street Type": "ST",
+        "Suburb": "CAIRNS CITY",
+        "Postcode": "4870",
+        "State": "QLD",
+        "Full Address": " SHERIDAN & SPENCE ST CAIRNS CITY 4870 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          145.775254,
+          -16.925404
+        ],
+        "type": "Point"
+      },
+      "id": "fad281971a8974499bb73ee4633fd599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "",
+        "Street Name": "KUNWARARA",
+        "Street Type": "RD",
+        "Suburb": "MARLBOROUGH",
+        "Postcode": "4705",
+        "State": "QLD",
+        "Full Address": " KUNWARARA RD MARLBOROUGH 4705 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          149.983628,
+          -22.855202
+        ],
+        "type": "Point"
+      },
+      "id": "fc982ce9791a730cabd4e73cffda57f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Street Number": "963-1193",
+        "Street Name": "Barambah",
+        "Street Type": "RD",
+        "Suburb": "MOFFATDALE",
+        "Postcode": "4605",
+        "State": "QLD",
+        "Full Address": "963-1193 Barambah RD MOFFATDALE 4605 QLD "
+      },
+      "geometry": {
+        "coordinates": [
+          151.956199,
+          -26.290803
+        ],
+        "type": "Point"
+      },
+      "id": "fe21768bb001ea8f212d83f555949ae3"
+    }
+  ],
+  "type": "FeatureCollection"
+}
